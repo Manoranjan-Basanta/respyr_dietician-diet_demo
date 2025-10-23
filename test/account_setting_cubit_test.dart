@@ -35,7 +35,7 @@ void main() {
       cubit.updateName("John Doe");
       print("➡️ Updated state: ${cubit.state}");
       expect(cubit.state.name, "John Doe");
-      print("✅ updateName test passed");
+      print("✅ updateName test passed rsth");
     });
 
     test('updateMobileNumber should update the number', () {
